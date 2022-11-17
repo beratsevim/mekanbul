@@ -1,6 +1,6 @@
 var mongoose = require("mongoose");
 require("./mekansema");
-var dbURI = 'mongodb+srv://beratsvm:berat.16@mekanbul.7r3uzsh.mongodb.net/?retryWrites=true&w=majority';
+var dbURI = 'mongodb+srv://berat:1234@mekanbul.7r3uzsh.mongodb.net/?retryWrites=true&w=majority';
 //var dbURI = 'mongodb://localhost/mekanbul';
 
 
