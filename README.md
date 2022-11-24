@@ -8,3 +8,11 @@
 
 ### [3. Bir Mekana Ait Belirli Bir Yorumu Getir](https://mekanbul5.beratsevim.repl.co/api/mekanlar/63766cc05e6da9c462264f76/yorumlar/63766cc40c49921dbb8959e6)
 ![3](/resimler/yorumlar.PNG)
+
+--------------
+# Mekanbul REST API TEST
+### 1. API Collections Test
+![3](/resimler/API_test_collection.PNG)
+
+### 2. API Test
+![3](/resimler/API_test.PNG)

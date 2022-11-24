@@ -1,0 +1,23 @@
+Client, Thunder Client
+CollectionName, Berat Sevim Mekanbul API Testi
+FolderName, 
+EnvironmentName, mekanbul
+DateExported, 2022-11-24T15:19:27.183Z
+Total Iterations, 1
+Total Passed, 1
+Total Failed, 0
+Failed Iterations Numbers, 
+
+
+
+Iteration, 1
+Method, Name, Url, Status, Time, Passed, Total, Result
+POST, Mekan Ekle, https://mekanbul6.beratsevim.repl.co/api/mekanlar, 201, 696 ms, 0, 0, N/A
+GET, Mekanları Listele, https://mekanbul6.beratsevim.repl.co/api/mekanlar?enlem=37.8&boylam=30.5, 200, 782 ms, 0, 0, N/A
+GET, Mekan Getir, https://mekanbul6.beratsevim.repl.co/api/mekanlar/637f885e6d95eb081a68ede4, 200, 671 ms, 0, 0, N/A
+PUT, Mekan Güncelle, https://mekanbul6.beratsevim.repl.co/api/mekanlar/637f885e6d95eb081a68ede4, 200, 1.11 s, 0, 0, N/A
+POST, Yorum Ekle, https://mekanbul6.beratsevim.repl.co/api/mekanlar/637f885e6d95eb081a68ede4/yorumlar/, 201, 1.08 s, 0, 0, N/A
+GET, Yorum Getir, https://mekanbul6.beratsevim.repl.co/api/mekanlar/637f885e6d95eb081a68ede4/yorumlar/637f8b45524efb23e44cb0ad, 200, 892 ms, 0, 0, N/A
+PUT, Yorum Güncelle, https://mekanbul6.beratsevim.repl.co/api/mekanlar/637f885e6d95eb081a68ede4/yorumlar/637f8b45524efb23e44cb0ad, 200, 881 ms, 0, 0, N/A
+DELETE, Yorum Sil, https://mekanbul6.beratsevim.repl.co/api/mekanlar/637f885e6d95eb081a68ede4/yorumlar/637f8b45524efb23e44cb0ad, 200, 869 ms, 0, 0, N/A
+DELETE, Mekan Sil, https://mekanbul6.beratsevim.repl.co/api/mekanlar/637f885e6d95eb081a68ede4, 200, 676 ms, 0, 0, N/A
