@@ -2,7 +2,7 @@ var express = require('express');
 var router = express.Router();
 const axios = require("axios");
 var apiSecenekleri = {
-  sunucu: "https://mekanbul8.beratsevim.co",
+  sunucu: "https://mekanbul8.beratsevim.repl.co",
   apiYolu: "/api/mekanlar/",
 };
 var mesafeyiFormatla = function (mesafe) {
