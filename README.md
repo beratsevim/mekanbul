@@ -1,1 +1,1 @@
-https://mekanbul.beratsevim.repl.co/?enlem=37&boylam=35
+https://mekanbul8.beratsevim.repl.co/?enlem=35&boylam=30
